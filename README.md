@@ -1,7 +1,7 @@
-->Neural Network Binary Classification — Circles Dataset
+->Neural Network Binary Classification 
 Overview
 
-This Jupyter Notebook demonstrates how artificial neural networks can be used to solve a binary classification problem using PyTorch. The project focuses on classifying data points arranged in circular patterns — a classic example of a non-linear machine learning problem.
+This Jupyter Notebook demonstrates how artificial neural networks can be used to solve a binary classification problem using PyTorch. The project focuses on classifying data points arranged in circular patterns  a classic example of a non-linear machine learning problem.
 
 The notebook walks through the complete deep learning workflow, starting from data preparation and visualization to model training, evaluation, and comparison of different neural network architectures.
 
